@@ -1,0 +1,289 @@
+<?xml version="1.0" ?><Tournament>
+<NegotiationOutcome currentTime="Wed Dec 13 14:53:48 GMT 2017" timeOfAgreement="0.9337016574585635" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Beer Only, Location: Party Room, Invitations: Plain, Music: DJ, Cleanup: Water and Soap, ])" domain="etc/templates/partydomain/party_domain.xml" bids="337" runtime="5.098213163" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Beer Only, Location: Party Room, Invitations: Plain, Music: DJ, Cleanup: Water and Soap, ]" startingAgent="-" deadline="180rounds">
+<resultsOfAgent agent="Caduceus@0" agentDesc="ANAC2016 Caduceus" utilspace="etc/templates/partydomain/party8_utility.xml" agentClass="agents.anac.y2016.caduceus.Caduceus" finalUtility="0.9124619064965962" discountedUtility="0.9124619064965962" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Caduceus@1" agentDesc="ANAC2016 Caduceus" utilspace="etc/templates/partydomain/party9_utility.xml" agentClass="agents.anac.y2016.caduceus.Caduceus" finalUtility="0.7504778735349671" discountedUtility="0.7504778735349671" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Wed Dec 13 14:53:51 GMT 2017" timeOfAgreement="0.9060773480662984" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Beer Only, Location: Party Room, Invitations: Plain, Music: DJ, Cleanup: Water and Soap, ])" domain="etc/templates/partydomain/party_domain.xml" bids="327" runtime="2.129714696" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Beer Only, Location: Party Room, Invitations: Plain, Music: DJ, Cleanup: Water and Soap, ]" startingAgent="AgentBB@2" deadline="180rounds">
+<resultsOfAgent agent="AgentBB@2" agentDesc="AgentBB" utilspace="etc/templates/partydomain/party8_utility.xml" agentClass="AgentBB" finalUtility="0.9124619064965962" discountedUtility="0.9124619064965962" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Caduceus@3" agentDesc="ANAC2016 Caduceus" utilspace="etc/templates/partydomain/party9_utility.xml" agentClass="agents.anac.y2016.caduceus.Caduceus" finalUtility="0.7504778735349671" discountedUtility="0.7504778735349671" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Wed Dec 13 14:53:54 GMT 2017" lastAction="(Offer  bid:Bid[Food: Catering, Drinks: Catering, Location: Party Room, Invitations: Photo, Music: DJ, Cleanup: Special Equiment, ])" domain="etc/templates/partydomain/party_domain.xml" bids="360" runtime="3.064024448" finalOutcome="-" startingAgent="Caduceus@4" deadline="180rounds">
+<resultsOfAgent agent="Caduceus@4" agentDesc="ANAC2016 Caduceus" utilspace="etc/templates/partydomain/party8_utility.xml" agentClass="agents.anac.y2016.caduceus.Caduceus" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="AgentBB@5" agentDesc="AgentBB" utilspace="etc/templates/partydomain/party9_utility.xml" agentClass="AgentBB" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Wed Dec 13 14:53:55 GMT 2017" lastAction="(Offer  bid:Bid[Food: Finger-Food, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Plain, Music: DJ, Cleanup: Specialized Materials, ])" domain="etc/templates/partydomain/party_domain.xml" bids="360" runtime="0.251866359" finalOutcome="-" startingAgent="AgentBB@6" deadline="180rounds">
+<resultsOfAgent agent="AgentBB@6" agentDesc="AgentBB" utilspace="etc/templates/partydomain/party8_utility.xml" agentClass="AgentBB" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="AgentBB@7" agentDesc="AgentBB" utilspace="etc/templates/partydomain/party9_utility.xml" agentClass="AgentBB" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Wed Dec 13 14:53:57 GMT 2017" timeOfAgreement="0.8453038674033149" lastAction="(Accept  bid:Bid[Food: Catering, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Plain, Music: DJ, Cleanup: Specialized Materials, ])" domain="etc/templates/partydomain/party_domain.xml" bids="304" runtime="2.445025174" finalOutcome="Bid[Food: Catering, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Plain, Music: DJ, Cleanup: Specialized Materials, ]" startingAgent="Caduceus@8" deadline="180rounds">
+<resultsOfAgent agent="Caduceus@8" agentDesc="ANAC2016 Caduceus" utilspace="etc/templates/partydomain/party5_utility.xml" agentClass="agents.anac.y2016.caduceus.Caduceus" finalUtility="0.7055694836783316" discountedUtility="0.7055694836783316" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Caduceus@9" agentDesc="ANAC2016 Caduceus" utilspace="etc/templates/partydomain/party9_utility.xml" agentClass="agents.anac.y2016.caduceus.Caduceus" finalUtility="0.9735964455533398" discountedUtility="0.9735964455533398" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Wed Dec 13 14:53:59 GMT 2017" timeOfAgreement="0.8342541436464088" lastAction="(Accept  bid:Bid[Food: Catering, Drinks: Beer Only, Location: Party Room, Invitations: Custom, Printed, Music: DJ, Cleanup: Hired Help, ])" domain="etc/templates/partydomain/party_domain.xml" bids="301" runtime="1.048780021" finalOutcome="Bid[Food: Catering, Drinks: Beer Only, Location: Party Room, Invitations: Custom, Printed, Music: DJ, Cleanup: Hired Help, ]" startingAgent="AgentBB@10" deadline="180rounds">
+<resultsOfAgent agent="AgentBB@10" agentDesc="AgentBB" utilspace="etc/templates/partydomain/party5_utility.xml" agentClass="AgentBB" finalUtility="0.9400638649001336" discountedUtility="0.9400638649001336" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Caduceus@11" agentDesc="ANAC2016 Caduceus" utilspace="etc/templates/partydomain/party9_utility.xml" agentClass="agents.anac.y2016.caduceus.Caduceus" finalUtility="0.8863533508769809" discountedUtility="0.8863533508769809" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Wed Dec 13 14:54:00 GMT 2017" timeOfAgreement="0.8342541436464088" lastAction="(Accept  bid:Bid[Food: Catering, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Photo, Music: DJ, Cleanup: Special Equiment, ])" domain="etc/templates/partydomain/party_domain.xml" bids="300" runtime="0.967189491" finalOutcome="Bid[Food: Catering, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Photo, Music: DJ, Cleanup: Special Equiment, ]" startingAgent="Caduceus@12" deadline="180rounds">
+<resultsOfAgent agent="Caduceus@12" agentDesc="ANAC2016 Caduceus" utilspace="etc/templates/partydomain/party5_utility.xml" agentClass="agents.anac.y2016.caduceus.Caduceus" finalUtility="0.7298498018890869" discountedUtility="0.7298498018890869" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="AgentBB@13" agentDesc="AgentBB" utilspace="etc/templates/partydomain/party9_utility.xml" agentClass="AgentBB" finalUtility="0.9595626424459668" discountedUtility="0.9595626424459668" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Wed Dec 13 14:54:00 GMT 2017" timeOfAgreement="0.8121546961325967" lastAction="(Accept  bid:Bid[Food: Catering, Drinks: Catering, Location: Party Room, Invitations: Custom, Handmade, Music: DJ, Cleanup: Hired Help, ])" domain="etc/templates/partydomain/party_domain.xml" bids="293" runtime="0.164002491" finalOutcome="Bid[Food: Catering, Drinks: Catering, Location: Party Room, Invitations: Custom, Handmade, Music: DJ, Cleanup: Hired Help, ]" startingAgent="AgentBB@14" deadline="180rounds">
+<resultsOfAgent agent="AgentBB@14" agentDesc="AgentBB" utilspace="etc/templates/partydomain/party5_utility.xml" agentClass="AgentBB" finalUtility="0.910304087627578" discountedUtility="0.910304087627578" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="AgentBB@15" agentDesc="AgentBB" utilspace="etc/templates/partydomain/party9_utility.xml" agentClass="AgentBB" finalUtility="0.9169824756385767" discountedUtility="0.9169824756385767" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Wed Dec 13 14:54:04 GMT 2017" timeOfAgreement="0.8784530386740331" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Beer Only, Location: Party Room, Invitations: Plain, Music: Band, Cleanup: Water and Soap, ])" domain="etc/templates/partydomain/party_domain.xml" bids="316" runtime="2.878923037" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Beer Only, Location: Party Room, Invitations: Plain, Music: Band, Cleanup: Water and Soap, ]" startingAgent="Caduceus@16" deadline="180rounds">
+<resultsOfAgent agent="Caduceus@16" agentDesc="ANAC2016 Caduceus" utilspace="etc/templates/partydomain/party5_utility.xml" agentClass="agents.anac.y2016.caduceus.Caduceus" finalUtility="0.7818504333774989" discountedUtility="0.7818504333774989" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Caduceus@17" agentDesc="ANAC2016 Caduceus" utilspace="etc/templates/partydomain/party8_utility.xml" agentClass="agents.anac.y2016.caduceus.Caduceus" finalUtility="0.8690511442677731" discountedUtility="0.8690511442677731" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Wed Dec 13 14:54:06 GMT 2017" timeOfAgreement="0.8674033149171271" lastAction="(Accept  bid:Bid[Food: Finger-Food, Drinks: Beer Only, Location: Party Room, Invitations: Photo, Music: DJ, Cleanup: Hired Help, ])" domain="etc/templates/partydomain/party_domain.xml" bids="313" runtime="1.383228104" finalOutcome="Bid[Food: Finger-Food, Drinks: Beer Only, Location: Party Room, Invitations: Photo, Music: DJ, Cleanup: Hired Help, ]" startingAgent="AgentBB@18" deadline="180rounds">
+<resultsOfAgent agent="AgentBB@18" agentDesc="AgentBB" utilspace="etc/templates/partydomain/party5_utility.xml" agentClass="AgentBB" finalUtility="0.9091562315585825" discountedUtility="0.9091562315585825" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Caduceus@19" agentDesc="ANAC2016 Caduceus" utilspace="etc/templates/partydomain/party8_utility.xml" agentClass="agents.anac.y2016.caduceus.Caduceus" finalUtility="0.7224310233186106" discountedUtility="0.7224310233186106" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Wed Dec 13 14:54:09 GMT 2017" lastAction="(Offer  bid:Bid[Food: Chips and Nuts, Drinks: Beer Only, Location: Your Dorm, Invitations: Plain, Music: DJ, Cleanup: Specialized Materials, ])" domain="etc/templates/partydomain/party_domain.xml" bids="360" runtime="3.197998813" finalOutcome="-" startingAgent="Caduceus@20" deadline="180rounds">
+<resultsOfAgent agent="Caduceus@20" agentDesc="ANAC2016 Caduceus" utilspace="etc/templates/partydomain/party5_utility.xml" agentClass="agents.anac.y2016.caduceus.Caduceus" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="AgentBB@21" agentDesc="AgentBB" utilspace="etc/templates/partydomain/party8_utility.xml" agentClass="AgentBB" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Wed Dec 13 14:54:09 GMT 2017" lastAction="(Offer  bid:Bid[Food: Chips and Nuts, Drinks: Beer Only, Location: Your Dorm, Invitations: Plain, Music: MP3, Cleanup: Specialized Materials, ])" domain="etc/templates/partydomain/party_domain.xml" bids="360" runtime="0.197193077" finalOutcome="-" startingAgent="AgentBB@22" deadline="180rounds">
+<resultsOfAgent agent="AgentBB@22" agentDesc="AgentBB" utilspace="etc/templates/partydomain/party5_utility.xml" agentClass="AgentBB" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="AgentBB@23" agentDesc="AgentBB" utilspace="etc/templates/partydomain/party8_utility.xml" agentClass="AgentBB" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Wed Dec 13 14:54:11 GMT 2017" timeOfAgreement="0.8342541436464088" lastAction="(Accept  bid:Bid[Food: Catering, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Custom, Handmade, Music: DJ, Cleanup: Specialized Materials, ])" domain="etc/templates/partydomain/party_domain.xml" bids="300" runtime="1.727554197" finalOutcome="Bid[Food: Catering, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Custom, Handmade, Music: DJ, Cleanup: Specialized Materials, ]" startingAgent="Caduceus@24" deadline="180rounds">
+<resultsOfAgent agent="Caduceus@24" agentDesc="ANAC2016 Caduceus" utilspace="etc/templates/partydomain/party7_utility.xml" agentClass="agents.anac.y2016.caduceus.Caduceus" finalUtility="1.0" discountedUtility="1.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Caduceus@25" agentDesc="ANAC2016 Caduceus" utilspace="etc/templates/partydomain/party9_utility.xml" agentClass="agents.anac.y2016.caduceus.Caduceus" finalUtility="1.0" discountedUtility="1.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Wed Dec 13 14:54:12 GMT 2017" timeOfAgreement="0.5027624309392266" lastAction="(Accept  bid:Bid[Food: Catering, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Custom, Handmade, Music: DJ, Cleanup: Specialized Materials, ])" domain="etc/templates/partydomain/party_domain.xml" bids="180" runtime="0.565514239" finalOutcome="Bid[Food: Catering, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Custom, Handmade, Music: DJ, Cleanup: Specialized Materials, ]" startingAgent="AgentBB@26" deadline="180rounds">
+<resultsOfAgent agent="AgentBB@26" agentDesc="AgentBB" utilspace="etc/templates/partydomain/party7_utility.xml" agentClass="AgentBB" finalUtility="1.0" discountedUtility="1.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Caduceus@27" agentDesc="ANAC2016 Caduceus" utilspace="etc/templates/partydomain/party9_utility.xml" agentClass="agents.anac.y2016.caduceus.Caduceus" finalUtility="1.0" discountedUtility="1.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Wed Dec 13 14:54:13 GMT 2017" timeOfAgreement="0.5027624309392266" lastAction="(Accept  bid:Bid[Food: Catering, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Custom, Handmade, Music: DJ, Cleanup: Specialized Materials, ])" domain="etc/templates/partydomain/party_domain.xml" bids="181" runtime="0.587940673" finalOutcome="Bid[Food: Catering, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Custom, Handmade, Music: DJ, Cleanup: Specialized Materials, ]" startingAgent="Caduceus@28" deadline="180rounds">
+<resultsOfAgent agent="Caduceus@28" agentDesc="ANAC2016 Caduceus" utilspace="etc/templates/partydomain/party7_utility.xml" agentClass="agents.anac.y2016.caduceus.Caduceus" finalUtility="1.0" discountedUtility="1.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="AgentBB@29" agentDesc="AgentBB" utilspace="etc/templates/partydomain/party9_utility.xml" agentClass="AgentBB" finalUtility="1.0" discountedUtility="1.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Wed Dec 13 14:54:13 GMT 2017" timeOfAgreement="0.5027624309392266" lastAction="(Accept  bid:Bid[Food: Catering, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Custom, Printed, Music: DJ, Cleanup: Special Equiment, ])" domain="etc/templates/partydomain/party_domain.xml" bids="180" runtime="0.07951367" finalOutcome="Bid[Food: Catering, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Custom, Printed, Music: DJ, Cleanup: Special Equiment, ]" startingAgent="AgentBB@30" deadline="180rounds">
+<resultsOfAgent agent="AgentBB@30" agentDesc="AgentBB" utilspace="etc/templates/partydomain/party7_utility.xml" agentClass="AgentBB" finalUtility="0.9771650120770737" discountedUtility="0.9771650120770737" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="AgentBB@31" agentDesc="AgentBB" utilspace="etc/templates/partydomain/party9_utility.xml" agentClass="AgentBB" finalUtility="0.9771650120770737" discountedUtility="0.9771650120770737" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Wed Dec 13 14:54:19 GMT 2017" lastAction="(Offer  bid:Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Tent, Invitations: Plain, Music: MP3, Cleanup: Water and Soap, ])" domain="etc/templates/partydomain/party_domain.xml" bids="360" runtime="5.52096529" finalOutcome="-" startingAgent="Caduceus@32" deadline="180rounds">
+<resultsOfAgent agent="Caduceus@32" agentDesc="ANAC2016 Caduceus" utilspace="etc/templates/partydomain/party7_utility.xml" agentClass="agents.anac.y2016.caduceus.Caduceus" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Caduceus@33" agentDesc="ANAC2016 Caduceus" utilspace="etc/templates/partydomain/party8_utility.xml" agentClass="agents.anac.y2016.caduceus.Caduceus" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Wed Dec 13 14:54:23 GMT 2017" lastAction="(Offer  bid:Bid[Food: Chips and Nuts, Drinks: Beer Only, Location: Ballroom, Invitations: Plain, Music: DJ, Cleanup: Specialized Materials, ])" domain="etc/templates/partydomain/party_domain.xml" bids="360" runtime="3.278054586" finalOutcome="-" startingAgent="AgentBB@34" deadline="180rounds">
+<resultsOfAgent agent="AgentBB@34" agentDesc="AgentBB" utilspace="etc/templates/partydomain/party7_utility.xml" agentClass="AgentBB" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Caduceus@35" agentDesc="ANAC2016 Caduceus" utilspace="etc/templates/partydomain/party8_utility.xml" agentClass="agents.anac.y2016.caduceus.Caduceus" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Wed Dec 13 14:54:26 GMT 2017" lastAction="(Offer  bid:Bid[Food: Chips and Nuts, Drinks: Beer Only, Location: Your Dorm, Invitations: Custom, Handmade, Music: MP3, Cleanup: Water and Soap, ])" domain="etc/templates/partydomain/party_domain.xml" bids="360" runtime="3.547102415" finalOutcome="-" startingAgent="Caduceus@38" deadline="180rounds">
+<resultsOfAgent agent="Caduceus@38" agentDesc="ANAC2016 Caduceus" utilspace="etc/templates/partydomain/party7_utility.xml" agentClass="agents.anac.y2016.caduceus.Caduceus" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="AgentBB@39" agentDesc="AgentBB" utilspace="etc/templates/partydomain/party8_utility.xml" agentClass="AgentBB" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Wed Dec 13 14:54:27 GMT 2017" lastAction="(Offer  bid:Bid[Food: Chips and Nuts, Drinks: Beer Only, Location: Your Dorm, Invitations: Plain, Music: MP3, Cleanup: Specialized Materials, ])" domain="etc/templates/partydomain/party_domain.xml" bids="360" runtime="0.383582185" finalOutcome="-" startingAgent="AgentBB@44" deadline="180rounds">
+<resultsOfAgent agent="AgentBB@44" agentDesc="AgentBB" utilspace="etc/templates/partydomain/party7_utility.xml" agentClass="AgentBB" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="AgentBB@45" agentDesc="AgentBB" utilspace="etc/templates/partydomain/party8_utility.xml" agentClass="AgentBB" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Wed Dec 13 14:54:29 GMT 2017" timeOfAgreement="0.8397790055248618" lastAction="(Accept  bid:Bid[Food: Catering, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Custom, Handmade, Music: DJ, Cleanup: Special Equiment, ])" domain="etc/templates/partydomain/party_domain.xml" bids="303" runtime="2.348514237" finalOutcome="Bid[Food: Catering, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Custom, Handmade, Music: DJ, Cleanup: Special Equiment, ]" startingAgent="Caduceus@48" deadline="180rounds">
+<resultsOfAgent agent="Caduceus@48" agentDesc="ANAC2016 Caduceus" utilspace="etc/templates/partydomain/party7_utility.xml" agentClass="agents.anac.y2016.caduceus.Caduceus" finalUtility="0.9771650120770737" discountedUtility="0.9771650120770737" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Caduceus@49" agentDesc="ANAC2016 Caduceus" utilspace="etc/templates/partydomain/party5_utility.xml" agentClass="agents.anac.y2016.caduceus.Caduceus" finalUtility="0.7291495120984932" discountedUtility="0.7291495120984932" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Wed Dec 13 14:54:31 GMT 2017" timeOfAgreement="0.8342541436464088" lastAction="(Accept  bid:Bid[Food: Catering, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Custom, Printed, Music: DJ, Cleanup: Specialized Materials, ])" domain="etc/templates/partydomain/party_domain.xml" bids="301" runtime="1.146215593" finalOutcome="Bid[Food: Catering, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Custom, Printed, Music: DJ, Cleanup: Specialized Materials, ]" startingAgent="AgentBB@52" deadline="180rounds">
+<resultsOfAgent agent="AgentBB@52" agentDesc="AgentBB" utilspace="etc/templates/partydomain/party7_utility.xml" agentClass="AgentBB" finalUtility="0.928532042222943" discountedUtility="0.928532042222943" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Caduceus@53" agentDesc="ANAC2016 Caduceus" utilspace="etc/templates/partydomain/party5_utility.xml" agentClass="agents.anac.y2016.caduceus.Caduceus" finalUtility="0.7343955412300958" discountedUtility="0.7343955412300958" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Wed Dec 13 14:54:32 GMT 2017" timeOfAgreement="0.8342541436464088" lastAction="(Accept  bid:Bid[Food: Finger-Food, Drinks: Beer Only, Location: Party Room, Invitations: Custom, Printed, Music: DJ, Cleanup: Hired Help, ])" domain="etc/templates/partydomain/party_domain.xml" bids="300" runtime="1.378734677" finalOutcome="Bid[Food: Finger-Food, Drinks: Beer Only, Location: Party Room, Invitations: Custom, Printed, Music: DJ, Cleanup: Hired Help, ]" startingAgent="Caduceus@54" deadline="180rounds">
+<resultsOfAgent agent="Caduceus@54" agentDesc="ANAC2016 Caduceus" utilspace="etc/templates/partydomain/party7_utility.xml" agentClass="agents.anac.y2016.caduceus.Caduceus" finalUtility="0.8207877725577508" discountedUtility="0.8207877725577508" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="AgentBB@55" agentDesc="AgentBB" utilspace="etc/templates/partydomain/party5_utility.xml" agentClass="AgentBB" finalUtility="0.9089228016283846" discountedUtility="0.9089228016283846" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Wed Dec 13 14:54:33 GMT 2017" timeOfAgreement="0.6464088397790055" lastAction="(Accept  bid:Bid[Food: Catering, Drinks: Catering, Location: Party Room, Invitations: Custom, Printed, Music: DJ, Cleanup: Hired Help, ])" domain="etc/templates/partydomain/party_domain.xml" bids="232" runtime="0.142711827" finalOutcome="Bid[Food: Catering, Drinks: Catering, Location: Party Room, Invitations: Custom, Printed, Music: DJ, Cleanup: Hired Help, ]" startingAgent="AgentBB@58" deadline="180rounds">
+<resultsOfAgent agent="AgentBB@58" agentDesc="AgentBB" utilspace="etc/templates/partydomain/party7_utility.xml" agentClass="AgentBB" finalUtility="0.9169824756385767" discountedUtility="0.9169824756385767" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="AgentBB@59" agentDesc="AgentBB" utilspace="etc/templates/partydomain/party5_utility.xml" agentClass="AgentBB" finalUtility="0.9107709474879737" discountedUtility="0.9107709474879737" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Wed Dec 13 14:54:35 GMT 2017" timeOfAgreement="0.8397790055248618" lastAction="(Accept  bid:Bid[Food: Catering, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Custom, Handmade, Music: DJ, Cleanup: Hired Help, ])" domain="etc/templates/partydomain/party_domain.xml" bids="302" runtime="2.252665322" finalOutcome="Bid[Food: Catering, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Custom, Handmade, Music: DJ, Cleanup: Hired Help, ]" startingAgent="Caduceus@60" deadline="180rounds">
+<resultsOfAgent agent="Caduceus@60" agentDesc="ANAC2016 Caduceus" utilspace="etc/templates/partydomain/party6_utility.xml" agentClass="agents.anac.y2016.caduceus.Caduceus" finalUtility="0.7159780460207656" discountedUtility="0.7159780460207656" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Caduceus@61" agentDesc="ANAC2016 Caduceus" utilspace="etc/templates/partydomain/party9_utility.xml" agentClass="agents.anac.y2016.caduceus.Caduceus" finalUtility="0.9680310169079032" discountedUtility="0.9680310169079032" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Wed Dec 13 14:54:38 GMT 2017" timeOfAgreement="0.9337016574585635" lastAction="(Accept  bid:Bid[Food: Finger-Food, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Custom, Handmade, Music: MP3, Cleanup: Hired Help, ])" domain="etc/templates/partydomain/party_domain.xml" bids="337" runtime="2.839099122" finalOutcome="Bid[Food: Finger-Food, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Custom, Handmade, Music: MP3, Cleanup: Hired Help, ]" startingAgent="AgentBB@62" deadline="180rounds">
+<resultsOfAgent agent="AgentBB@62" agentDesc="AgentBB" utilspace="etc/templates/partydomain/party6_utility.xml" agentClass="AgentBB" finalUtility="0.9480762575522829" discountedUtility="0.9480762575522829" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Caduceus@63" agentDesc="ANAC2016 Caduceus" utilspace="etc/templates/partydomain/party9_utility.xml" agentClass="agents.anac.y2016.caduceus.Caduceus" finalUtility="0.7016559491492296" discountedUtility="0.7016559491492296" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Wed Dec 13 14:54:41 GMT 2017" timeOfAgreement="0.8839779005524862" lastAction="(Accept  bid:Bid[Food: Finger-Food, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Custom, Handmade, Music: DJ, Cleanup: Hired Help, ])" domain="etc/templates/partydomain/party_domain.xml" bids="318" runtime="2.500004789" finalOutcome="Bid[Food: Finger-Food, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Custom, Handmade, Music: DJ, Cleanup: Hired Help, ]" startingAgent="Caduceus@66" deadline="180rounds">
+<resultsOfAgent agent="Caduceus@66" agentDesc="ANAC2016 Caduceus" utilspace="etc/templates/partydomain/party6_utility.xml" agentClass="agents.anac.y2016.caduceus.Caduceus" finalUtility="0.8447576884253204" discountedUtility="0.8447576884253204" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="AgentBB@67" agentDesc="AgentBB" utilspace="etc/templates/partydomain/party9_utility.xml" agentClass="AgentBB" finalUtility="0.9024654385886731" discountedUtility="0.9024654385886731" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Wed Dec 13 14:54:41 GMT 2017" lastAction="(Offer  bid:Bid[Food: Catering, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Custom, Handmade, Music: DJ, Cleanup: Special Equiment, ])" domain="etc/templates/partydomain/party_domain.xml" bids="360" runtime="0.26945035" finalOutcome="-" startingAgent="AgentBB@70" deadline="180rounds">
+<resultsOfAgent agent="AgentBB@70" agentDesc="AgentBB" utilspace="etc/templates/partydomain/party6_utility.xml" agentClass="AgentBB" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="AgentBB@71" agentDesc="AgentBB" utilspace="etc/templates/partydomain/party9_utility.xml" agentClass="AgentBB" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Wed Dec 13 14:54:46 GMT 2017" timeOfAgreement="0.9060773480662984" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Beer Only, Location: Party Room, Invitations: Photo, Music: MP3, Cleanup: Hired Help, ])" domain="etc/templates/partydomain/party_domain.xml" bids="327" runtime="4.180670196" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Beer Only, Location: Party Room, Invitations: Photo, Music: MP3, Cleanup: Hired Help, ]" startingAgent="Caduceus@72" deadline="180rounds">
+<resultsOfAgent agent="Caduceus@72" agentDesc="ANAC2016 Caduceus" utilspace="etc/templates/partydomain/party6_utility.xml" agentClass="agents.anac.y2016.caduceus.Caduceus" finalUtility="0.966920642435499" discountedUtility="0.966920642435499" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Caduceus@73" agentDesc="ANAC2016 Caduceus" utilspace="etc/templates/partydomain/party8_utility.xml" agentClass="agents.anac.y2016.caduceus.Caduceus" finalUtility="0.8044718711758122" discountedUtility="0.8044718711758122" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Wed Dec 13 14:54:48 GMT 2017" timeOfAgreement="0.850828729281768" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Beer Only, Location: Party Tent, Invitations: Plain, Music: MP3, Cleanup: Hired Help, ])" domain="etc/templates/partydomain/party_domain.xml" bids="307" runtime="1.6066685" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Beer Only, Location: Party Tent, Invitations: Plain, Music: MP3, Cleanup: Hired Help, ]" startingAgent="AgentBB@80" deadline="180rounds">
+<resultsOfAgent agent="AgentBB@80" agentDesc="AgentBB" utilspace="etc/templates/partydomain/party6_utility.xml" agentClass="AgentBB" finalUtility="0.9190004037880278" discountedUtility="0.9190004037880278" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Caduceus@81" agentDesc="ANAC2016 Caduceus" utilspace="etc/templates/partydomain/party8_utility.xml" agentClass="agents.anac.y2016.caduceus.Caduceus" finalUtility="0.8041134877251007" discountedUtility="0.8041134877251007" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Wed Dec 13 14:54:52 GMT 2017" lastAction="(Offer  bid:Bid[Food: Finger-Food, Drinks: Beer Only, Location: Your Dorm, Invitations: Plain, Music: MP3, Cleanup: Water and Soap, ])" domain="etc/templates/partydomain/party_domain.xml" bids="360" runtime="3.775350664" finalOutcome="-" startingAgent="Caduceus@82" deadline="180rounds">
+<resultsOfAgent agent="Caduceus@82" agentDesc="ANAC2016 Caduceus" utilspace="etc/templates/partydomain/party6_utility.xml" agentClass="agents.anac.y2016.caduceus.Caduceus" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="AgentBB@83" agentDesc="AgentBB" utilspace="etc/templates/partydomain/party8_utility.xml" agentClass="AgentBB" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Wed Dec 13 14:54:53 GMT 2017" lastAction="(Offer  bid:Bid[Food: Chips and Nuts, Drinks: Beer Only, Location: Your Dorm, Invitations: Photo, Music: MP3, Cleanup: Water and Soap, ])" domain="etc/templates/partydomain/party_domain.xml" bids="360" runtime="0.267743202" finalOutcome="-" startingAgent="AgentBB@90" deadline="180rounds">
+<resultsOfAgent agent="AgentBB@90" agentDesc="AgentBB" utilspace="etc/templates/partydomain/party6_utility.xml" agentClass="AgentBB" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="AgentBB@91" agentDesc="AgentBB" utilspace="etc/templates/partydomain/party8_utility.xml" agentClass="AgentBB" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Wed Dec 13 14:54:55 GMT 2017" timeOfAgreement="0.8342541436464088" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Catering, Location: Party Room, Invitations: Plain, Music: MP3, Cleanup: Hired Help, ])" domain="etc/templates/partydomain/party_domain.xml" bids="301" runtime="2.352109702" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Catering, Location: Party Room, Invitations: Plain, Music: MP3, Cleanup: Hired Help, ]" startingAgent="Caduceus@92" deadline="180rounds">
+<resultsOfAgent agent="Caduceus@92" agentDesc="ANAC2016 Caduceus" utilspace="etc/templates/partydomain/party6_utility.xml" agentClass="agents.anac.y2016.caduceus.Caduceus" finalUtility="0.9296228652956313" discountedUtility="0.9296228652956313" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Caduceus@93" agentDesc="ANAC2016 Caduceus" utilspace="etc/templates/partydomain/party5_utility.xml" agentClass="agents.anac.y2016.caduceus.Caduceus" finalUtility="0.8048986719294817" discountedUtility="0.8048986719294817" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Wed Dec 13 14:54:57 GMT 2017" timeOfAgreement="0.8342541436464088" lastAction="(Accept  bid:Bid[Food: Finger-Food, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Custom, Printed, Music: MP3, Cleanup: Hired Help, ])" domain="etc/templates/partydomain/party_domain.xml" bids="301" runtime="1.166874825" finalOutcome="Bid[Food: Finger-Food, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Custom, Printed, Music: MP3, Cleanup: Hired Help, ]" startingAgent="AgentBB@96" deadline="180rounds">
+<resultsOfAgent agent="AgentBB@96" agentDesc="AgentBB" utilspace="etc/templates/partydomain/party6_utility.xml" agentClass="AgentBB" finalUtility="0.9330423191427484" discountedUtility="0.9330423191427484" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Caduceus@97" agentDesc="ANAC2016 Caduceus" utilspace="etc/templates/partydomain/party5_utility.xml" agentClass="agents.anac.y2016.caduceus.Caduceus" finalUtility="0.7614165088806408" discountedUtility="0.7614165088806408" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Wed Dec 13 14:54:58 GMT 2017" timeOfAgreement="0.8342541436464088" lastAction="(Accept  bid:Bid[Food: Handmade Food, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Photo, Music: Band, Cleanup: Hired Help, ])" domain="etc/templates/partydomain/party_domain.xml" bids="300" runtime="1.246364751" finalOutcome="Bid[Food: Handmade Food, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Photo, Music: Band, Cleanup: Hired Help, ]" startingAgent="Caduceus@98" deadline="180rounds">
+<resultsOfAgent agent="Caduceus@98" agentDesc="ANAC2016 Caduceus" utilspace="etc/templates/partydomain/party6_utility.xml" agentClass="agents.anac.y2016.caduceus.Caduceus" finalUtility="0.7461180332023974" discountedUtility="0.7461180332023974" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="AgentBB@99" agentDesc="AgentBB" utilspace="etc/templates/partydomain/party5_utility.xml" agentClass="AgentBB" finalUtility="0.9257684688814016" discountedUtility="0.9257684688814016" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Wed Dec 13 14:54:58 GMT 2017" lastAction="(Offer  bid:Bid[Food: Handmade Food, Drinks: Beer Only, Location: Party Room, Invitations: Plain, Music: Band, Cleanup: Hired Help, ])" domain="etc/templates/partydomain/party_domain.xml" bids="360" runtime="0.228154741" finalOutcome="-" startingAgent="AgentBB@100" deadline="180rounds">
+<resultsOfAgent agent="AgentBB@100" agentDesc="AgentBB" utilspace="etc/templates/partydomain/party6_utility.xml" agentClass="AgentBB" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="AgentBB@101" agentDesc="AgentBB" utilspace="etc/templates/partydomain/party5_utility.xml" agentClass="AgentBB" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Wed Dec 13 14:55:02 GMT 2017" timeOfAgreement="0.850828729281768" lastAction="(Accept  bid:Bid[Food: Catering, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Custom, Handmade, Music: DJ, Cleanup: Hired Help, ])" domain="etc/templates/partydomain/party_domain.xml" bids="306" runtime="3.117827401" finalOutcome="Bid[Food: Catering, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Custom, Handmade, Music: DJ, Cleanup: Hired Help, ]" startingAgent="Caduceus@104" deadline="180rounds">
+<resultsOfAgent agent="Caduceus@104" agentDesc="ANAC2016 Caduceus" utilspace="etc/templates/partydomain/party6_utility.xml" agentClass="agents.anac.y2016.caduceus.Caduceus" finalUtility="0.7159780460207656" discountedUtility="0.7159780460207656" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Caduceus@105" agentDesc="ANAC2016 Caduceus" utilspace="etc/templates/partydomain/party7_utility.xml" agentClass="agents.anac.y2016.caduceus.Caduceus" finalUtility="0.9680310169079032" discountedUtility="0.9680310169079032" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Wed Dec 13 14:55:05 GMT 2017" timeOfAgreement="0.9723756906077348" lastAction="(Accept  bid:Bid[Food: Finger-Food, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Custom, Handmade, Music: MP3, Cleanup: Hired Help, ])" domain="etc/templates/partydomain/party_domain.xml" bids="351" runtime="3.522296007" finalOutcome="Bid[Food: Finger-Food, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Custom, Handmade, Music: MP3, Cleanup: Hired Help, ]" startingAgent="AgentBB@108" deadline="180rounds">
+<resultsOfAgent agent="AgentBB@108" agentDesc="AgentBB" utilspace="etc/templates/partydomain/party6_utility.xml" agentClass="AgentBB" finalUtility="0.9480762575522829" discountedUtility="0.9480762575522829" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Caduceus@109" agentDesc="ANAC2016 Caduceus" utilspace="etc/templates/partydomain/party7_utility.xml" agentClass="agents.anac.y2016.caduceus.Caduceus" finalUtility="0.7016559491492296" discountedUtility="0.7016559491492296" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Wed Dec 13 14:55:07 GMT 2017" timeOfAgreement="0.850828729281768" lastAction="(Accept  bid:Bid[Food: Catering, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Photo, Music: DJ, Cleanup: Hired Help, ])" domain="etc/templates/partydomain/party_domain.xml" bids="306" runtime="1.671486214" finalOutcome="Bid[Food: Catering, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Photo, Music: DJ, Cleanup: Hired Help, ]" startingAgent="Caduceus@114" deadline="180rounds">
+<resultsOfAgent agent="Caduceus@114" agentDesc="ANAC2016 Caduceus" utilspace="etc/templates/partydomain/party6_utility.xml" agentClass="agents.anac.y2016.caduceus.Caduceus" finalUtility="0.7084610768159983" discountedUtility="0.7084610768159983" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="AgentBB@115" agentDesc="AgentBB" utilspace="etc/templates/partydomain/party7_utility.xml" agentClass="AgentBB" finalUtility="0.9504286472767962" discountedUtility="0.9504286472767962" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Wed Dec 13 14:55:08 GMT 2017" lastAction="(Offer  bid:Bid[Food: Catering, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Custom, Printed, Music: DJ, Cleanup: Water and Soap, ])" domain="etc/templates/partydomain/party_domain.xml" bids="360" runtime="0.275777679" finalOutcome="-" startingAgent="AgentBB@118" deadline="180rounds">
+<resultsOfAgent agent="AgentBB@118" agentDesc="AgentBB" utilspace="etc/templates/partydomain/party6_utility.xml" agentClass="AgentBB" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="AgentBB@119" agentDesc="AgentBB" utilspace="etc/templates/partydomain/party7_utility.xml" agentClass="AgentBB" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Wed Dec 13 14:55:11 GMT 2017" timeOfAgreement="0.8342541436464088" lastAction="(Accept  bid:Bid[Food: Catering, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Custom, Handmade, Music: DJ, Cleanup: Specialized Materials, ])" domain="etc/templates/partydomain/party_domain.xml" bids="300" runtime="2.111878479" finalOutcome="Bid[Food: Catering, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Custom, Handmade, Music: DJ, Cleanup: Specialized Materials, ]" startingAgent="Caduceus@120" deadline="180rounds">
+<resultsOfAgent agent="Caduceus@120" agentDesc="ANAC2016 Caduceus" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="agents.anac.y2016.caduceus.Caduceus" finalUtility="0.7738088500000001" discountedUtility="0.7738088500000001" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Caduceus@121" agentDesc="ANAC2016 Caduceus" utilspace="etc/templates/partydomain/party9_utility.xml" agentClass="agents.anac.y2016.caduceus.Caduceus" finalUtility="1.0" discountedUtility="1.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Wed Dec 13 14:55:12 GMT 2017" timeOfAgreement="0.8397790055248618" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Custom, Handmade, Music: DJ, Cleanup: Special Equiment, ])" domain="etc/templates/partydomain/party_domain.xml" bids="303" runtime="1.337389939" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Custom, Handmade, Music: DJ, Cleanup: Special Equiment, ]" startingAgent="AgentBB@126" deadline="180rounds">
+<resultsOfAgent agent="AgentBB@126" agentDesc="AgentBB" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="AgentBB" finalUtility="0.9880943500000001" discountedUtility="0.9880943500000001" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Caduceus@127" agentDesc="ANAC2016 Caduceus" utilspace="etc/templates/partydomain/party9_utility.xml" agentClass="agents.anac.y2016.caduceus.Caduceus" finalUtility="0.8722600867663056" discountedUtility="0.8722600867663056" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Wed Dec 13 14:55:14 GMT 2017" timeOfAgreement="0.8342541436464088" lastAction="(Accept  bid:Bid[Food: Catering, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Plain, Music: DJ, Cleanup: Water and Soap, ])" domain="etc/templates/partydomain/party_domain.xml" bids="300" runtime="1.231626754" finalOutcome="Bid[Food: Catering, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Plain, Music: DJ, Cleanup: Water and Soap, ]" startingAgent="Caduceus@130" deadline="180rounds">
+<resultsOfAgent agent="Caduceus@130" agentDesc="ANAC2016 Caduceus" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="agents.anac.y2016.caduceus.Caduceus" finalUtility="0.7499993500000002" discountedUtility="0.7499993500000002" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="AgentBB@131" agentDesc="AgentBB" utilspace="etc/templates/partydomain/party9_utility.xml" agentClass="AgentBB" finalUtility="0.9370604648766575" discountedUtility="0.9370604648766575" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Wed Dec 13 14:55:14 GMT 2017" timeOfAgreement="0.5248618784530387" lastAction="(Accept  bid:Bid[Food: Finger-Food, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Custom, Handmade, Music: DJ, Cleanup: Special Equiment, ])" domain="etc/templates/partydomain/party_domain.xml" bids="189" runtime="0.109733932" finalOutcome="Bid[Food: Finger-Food, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Custom, Handmade, Music: DJ, Cleanup: Special Equiment, ]" startingAgent="AgentBB@134" deadline="180rounds">
+<resultsOfAgent agent="AgentBB@134" agentDesc="AgentBB" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="AgentBB" finalUtility="0.94047535" discountedUtility="0.94047535" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="AgentBB@135" agentDesc="AgentBB" utilspace="etc/templates/partydomain/party9_utility.xml" agentClass="AgentBB" finalUtility="0.9115994337578437" discountedUtility="0.9115994337578437" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Wed Dec 13 14:55:17 GMT 2017" timeOfAgreement="0.8342541436464088" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Beer Only, Location: Your Dorm, Invitations: Plain, Music: MP3, Cleanup: Water and Soap, ])" domain="etc/templates/partydomain/party_domain.xml" bids="300" runtime="2.253325052" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Beer Only, Location: Your Dorm, Invitations: Plain, Music: MP3, Cleanup: Water and Soap, ]" startingAgent="Caduceus@136" deadline="180rounds">
+<resultsOfAgent agent="Caduceus@136" agentDesc="ANAC2016 Caduceus" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="agents.anac.y2016.caduceus.Caduceus" finalUtility="0.714285075" discountedUtility="0.714285075" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Caduceus@137" agentDesc="ANAC2016 Caduceus" utilspace="etc/templates/partydomain/party8_utility.xml" agentClass="agents.anac.y2016.caduceus.Caduceus" finalUtility="0.9999999999999999" discountedUtility="0.9999999999999999" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Wed Dec 13 14:55:19 GMT 2017" timeOfAgreement="0.850828729281768" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Your Dorm, Invitations: Plain, Music: DJ, Cleanup: Specialized Materials, ])" domain="etc/templates/partydomain/party_domain.xml" bids="307" runtime="1.691557482" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Your Dorm, Invitations: Plain, Music: DJ, Cleanup: Specialized Materials, ]" startingAgent="AgentBB@142" deadline="180rounds">
+<resultsOfAgent agent="AgentBB@142" agentDesc="AgentBB" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="AgentBB" finalUtility="0.904761075" discountedUtility="0.904761075" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Caduceus@143" agentDesc="ANAC2016 Caduceus" utilspace="etc/templates/partydomain/party8_utility.xml" agentClass="agents.anac.y2016.caduceus.Caduceus" finalUtility="0.7092530457333605" discountedUtility="0.7092530457333605" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Wed Dec 13 14:55:21 GMT 2017" timeOfAgreement="0.8342541436464088" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Beer Only, Location: Your Dorm, Invitations: Photo, Music: DJ, Cleanup: Water and Soap, ])" domain="etc/templates/partydomain/party_domain.xml" bids="300" runtime="0.996878475" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Beer Only, Location: Your Dorm, Invitations: Photo, Music: DJ, Cleanup: Water and Soap, ]" startingAgent="Caduceus@146" deadline="180rounds">
+<resultsOfAgent agent="Caduceus@146" agentDesc="ANAC2016 Caduceus" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="agents.anac.y2016.caduceus.Caduceus" finalUtility="0.7857135750000002" discountedUtility="0.7857135750000002" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="AgentBB@147" agentDesc="AgentBB" utilspace="etc/templates/partydomain/party8_utility.xml" agentClass="AgentBB" finalUtility="0.9128202899473077" discountedUtility="0.9128202899473077" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Wed Dec 13 14:55:21 GMT 2017" lastAction="(Offer  bid:Bid[Food: Chips and Nuts, Drinks: Beer Only, Location: Party Tent, Invitations: Plain, Music: MP3, Cleanup: Water and Soap, ])" domain="etc/templates/partydomain/party_domain.xml" bids="360" runtime="0.192111685" finalOutcome="-" startingAgent="AgentBB@150" deadline="180rounds">
+<resultsOfAgent agent="AgentBB@150" agentDesc="AgentBB" utilspace="etc/templates/partydomain/party4_utility.xml" agentClass="AgentBB" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="AgentBB@151" agentDesc="AgentBB" utilspace="etc/templates/partydomain/party8_utility.xml" agentClass="AgentBB" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>

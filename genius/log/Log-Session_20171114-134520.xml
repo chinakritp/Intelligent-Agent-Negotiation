@@ -1,0 +1,7 @@
+<?xml version="1.0" ?><Session>
+<NegotiationOutcome currentTime="Tue Nov 14 13:45:20 GMT 2017" lastAction="(Offer  bid:Bid[Food: Chips and Nuts, Drinks: Beer Only, Location: Party Room, Invitations: Custom, Handmade, Music: DJ, Cleanup: Specialized Materials, ])" domain="etc/templates/partydomain/party_domain.xml" bids="1" runtime="0.0944799" finalOutcome="-" startingAgent="-" deadline="180rounds">
+<resultsOfAgent agent="AgentAA@0" agentDesc="AA Agent" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="AgentAA" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Aster@1" agentDesc="ANAC 2014 - Aster (compatible with non-linear utility spaces)" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.anac.y2014.Aster.Aster" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome></Session>

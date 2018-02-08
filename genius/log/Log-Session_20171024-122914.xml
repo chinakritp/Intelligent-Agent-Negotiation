@@ -1,0 +1,9 @@
+<?xml version="1.0" ?><Session>
+<NegotiationOutcome currentTime="Tue Oct 24 12:29:18 BST 2017" timeOfAgreement="0.5082872928176796" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Ballroom, Invitations: Custom, Printed, Music: MP3, Cleanup: Water and Soap, ])" domain="etc/templates/partydomain/party_domain.xml" bids="183" runtime="3.596135707" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Ballroom, Invitations: Custom, Printed, Music: MP3, Cleanup: Water and Soap, ]" startingAgent="-" deadline="180rounds">
+<resultsOfAgent agent="ExampleAgent@0" agentDesc="Example Agent" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="ExampleAgent" finalUtility="0.6441666666666667" discountedUtility="0.6441666666666667" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Atlas@1" agentDesc="ANAC 2014 - Atlas (compatible with non-linear utility spaces)" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.anac.y2014.Atlas.Atlas" finalUtility="0.6591943082390128" discountedUtility="0.6591943082390128" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="BraveCat@2" agentDesc="ANAC 2014 - BraveCat (compatible with non-linear utility spaces)" utilspace="etc/templates/partydomain/party3_utility.xml" agentClass="agents.anac.y2014.BraveCat.BraveCat" finalUtility="0.8809014991428845" discountedUtility="0.8809014991428845" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome></Session>

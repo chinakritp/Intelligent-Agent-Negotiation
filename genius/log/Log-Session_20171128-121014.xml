@@ -1,0 +1,7 @@
+<?xml version="1.0" ?><Session>
+<NegotiationOutcome currentTime="Tue Nov 28 12:10:21 GMT 2017" timeOfAgreement="0.994475138121547" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Custom, Handmade, Music: MP3, Cleanup: Specialized Materials, ])" domain="etc/templates/partydomain/party_domain.xml" bids="359" runtime="6.367506929" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Custom, Handmade, Music: MP3, Cleanup: Specialized Materials, ]" startingAgent="-" deadline="180rounds">
+<resultsOfAgent agent="AgentCC@0" agentDesc="AgentCC" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="AgentCC" finalUtility="0.8433333333333334" discountedUtility="0.8433333333333334" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="BraveCat@1" agentDesc="ANAC 2014 - BraveCat (compatible with non-linear utility spaces)" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.anac.y2014.BraveCat.BraveCat" finalUtility="0.559283949818975" discountedUtility="0.559283949818975" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome></Session>

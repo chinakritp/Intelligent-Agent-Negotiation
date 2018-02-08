@@ -1,0 +1,7 @@
+<?xml version="1.0" ?><Session>
+<NegotiationOutcome currentTime="Mon Nov 27 00:16:39 GMT 2017" lastAction="null" domain="etc/templates/partydomain/party_domain.xml" bids="0" runtime="0.090382726" finalOutcome="-" startingAgent="-" deadline="180rounds">
+<resultsOfAgent agent="AgentBB@0" agentDesc="AgentBB" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="AgentBB" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="BraveCat@1" agentDesc="ANAC 2014 - BraveCat (compatible with non-linear utility spaces)" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.anac.y2014.BraveCat.BraveCat" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome></Session>

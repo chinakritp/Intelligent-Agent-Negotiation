@@ -1,0 +1,7 @@
+<?xml version="1.0" ?><Session>
+<NegotiationOutcome currentTime="Wed Dec 13 16:04:47 GMT 2017" lastAction="(Offer  bid:Bid[Food: Chips and Nuts, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Plain, Music: MP3, Cleanup: Hired Help, ])" domain="etc/templates/partydomain/party_domain.xml" bids="360" runtime="5.259713052" finalOutcome="-" startingAgent="-" deadline="180rounds">
+<resultsOfAgent agent="MarvelAvengers@32" agentDesc="YourAgentsNameHere : Marvel Avengers " utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="MarvelAvengers" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="Caduceus@33" agentDesc="ANAC2016 Caduceus" utilspace="etc/templates/partydomain/party6_utility.xml" agentClass="agents.anac.y2016.caduceus.Caduceus" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome></Session>

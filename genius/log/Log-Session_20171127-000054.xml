@@ -1,0 +1,7 @@
+<?xml version="1.0" ?><Session>
+<NegotiationOutcome currentTime="Mon Nov 27 00:00:54 GMT 2017" lastAction="null" domain="etc/templates/partydomain/party_domain.xml" bids="0" runtime="0.075150792" finalOutcome="-" startingAgent="-" deadline="180rounds">
+<resultsOfAgent agent="AgentBB@0" agentDesc="AgentBB" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="AgentBB" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="MetaAgent@1" agentDesc="ANAC 2012 - MetaAgent" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.anac.y2012.MetaAgent.MetaAgent" finalUtility="0.0" discountedUtility="0.0" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome></Session>

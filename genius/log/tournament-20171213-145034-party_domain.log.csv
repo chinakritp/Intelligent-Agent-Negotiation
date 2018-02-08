@@ -1,0 +1,8 @@
+sep=;
+Run time (s);Round;Exception;deadline;Agreement;Discounted;#agreeing;min.util.;max.util.;Dist. to Pareto;Dist. to Nash;Social Welfare;Agent 1;Agent 2;Agent 3;Utility 1;Utility 2;Utility 3;Disc. Util. 1;Disc. Util. 2;Disc. Util. 3;Profile 1;Profile 2;Profile 3
+4.118;181;;180rounds;No;No;1;0.00000;0.00000;1.16612;1.41191;0.00000;RandomParty@65;Caduceus@66;AgentBB@67;0.0;0.0;0.0;0.0;0.0;0.0;party1_utility.xml;party2_utility.xml;party3_utility.xml
+2.011;167;;180rounds;Yes;No;3;0.65889;0.85774;0.00000;0.30422;2.28747;Caduceus@72;RandomParty@73;AgentBB@74;0.7708333333333334;0.6588887341087437;0.8577432019496707;0.7708333333333334;0.6588887341087437;0.8577432019496707;party1_utility.xml;party2_utility.xml;party3_utility.xml
+1.784;167;;180rounds;Yes;No;3;0.46425;0.80833;0.05612;0.46511;2.00402;AgentBB@75;RandomParty@76;Caduceus@77;0.8083333333333333;0.4642486756830665;0.731436660547631;0.8083333333333333;0.4642486756830665;0.731436660547631;party1_utility.xml;party2_utility.xml;party3_utility.xml
+1.824;164;;180rounds;Yes;No;3;0.54750;0.86585;0.04337;0.24564;2.13161;RandomParty@78;AgentBB@79;Caduceus@80;0.5475;0.8658466797198494;0.7182592888763123;0.5475;0.8658466797198494;0.7182592888763123;party1_utility.xml;party2_utility.xml;party3_utility.xml
+1.970;167;;180rounds;Yes;No;3;0.73750;0.83346;0.00000;0.15904;2.40141;Caduceus@81;AgentBB@82;RandomParty@83;0.7375;0.8304493940215574;0.8334609470044917;0.7375;0.8304493940215574;0.8334609470044917;party1_utility.xml;party2_utility.xml;party3_utility.xml
+1.898;165;;180rounds;Yes;No;3;0.54727;0.81500;0.09453;0.24009;2.12436;AgentBB@84;Caduceus@85;RandomParty@86;0.815;0.7620935529492956;0.5472703909026185;0.815;0.7620935529492956;0.5472703909026185;party1_utility.xml;party2_utility.xml;party3_utility.xml

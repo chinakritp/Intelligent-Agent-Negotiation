@@ -1,0 +1,109 @@
+<?xml version="1.0" ?><Tournament>
+<NegotiationOutcome currentTime="Tue Oct 24 12:54:45 BST 2017" timeOfAgreement="0.5193370165745856" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Custom, Printed, Music: MP3, Cleanup: Water and Soap, ])" domain="etc/templates/partydomain/party_domain.xml" bids="187" runtime="0.22772991" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Custom, Printed, Music: MP3, Cleanup: Water and Soap, ]" startingAgent="-" deadline="180rounds">
+<resultsOfAgent agent="ParsCat@296" agentDesc="ANAC2016 ParsCat" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.anac.y2016.parscat.ParsCat" finalUtility="0.7849999999999999" discountedUtility="0.7849999999999999" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="ParsCat@297" agentDesc="ANAC2016 ParsCat" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.anac.y2016.parscat.ParsCat" finalUtility="0.9285654723948509" discountedUtility="0.9285654723948509" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Tue Oct 24 12:54:45 BST 2017" timeOfAgreement="0.7292817679558011" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Beer Only, Location: Party Room, Invitations: Custom, Printed, Music: MP3, Cleanup: Water and Soap, ])" domain="etc/templates/partydomain/party_domain.xml" bids="262" runtime="0.182309926" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Beer Only, Location: Party Room, Invitations: Custom, Printed, Music: MP3, Cleanup: Water and Soap, ]" startingAgent="SYAgent@298" deadline="180rounds">
+<resultsOfAgent agent="SYAgent@298" agentDesc="ANAC2016 SYAgent" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.anac.y2016.syagent.SYAgent" finalUtility="0.8783333333333334" discountedUtility="0.8783333333333334" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="ParsCat@299" agentDesc="ANAC2016 ParsCat" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.anac.y2016.parscat.ParsCat" finalUtility="0.7382820437475793" discountedUtility="0.7382820437475793" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Tue Oct 24 12:54:46 BST 2017" timeOfAgreement="0.5138121546961326" lastAction="(Accept  bid:Bid[Food: Finger-Food, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Custom, Printed, Music: MP3, Cleanup: Water and Soap, ])" domain="etc/templates/partydomain/party_domain.xml" bids="184" runtime="0.688160018" finalOutcome="Bid[Food: Finger-Food, Drinks: Non-Alcoholic, Location: Party Room, Invitations: Custom, Printed, Music: MP3, Cleanup: Water and Soap, ]" startingAgent="ExampleAgent@300" deadline="180rounds">
+<resultsOfAgent agent="ExampleAgent@300" agentDesc="Example Agent" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="ExampleAgent" finalUtility="0.6283333333333333" discountedUtility="0.6283333333333333" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="ParsCat@301" agentDesc="ANAC2016 ParsCat" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.anac.y2016.parscat.ParsCat" finalUtility="0.7811218958140229" discountedUtility="0.7811218958140229" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Tue Oct 24 12:54:46 BST 2017" timeOfAgreement="0.5138121546961326" lastAction="(Accept  bid:Bid[Food: Finger-Food, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Custom, Printed, Music: DJ, Cleanup: Water and Soap, ])" domain="etc/templates/partydomain/party_domain.xml" bids="185" runtime="0.132115558" finalOutcome="Bid[Food: Finger-Food, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Custom, Printed, Music: DJ, Cleanup: Water and Soap, ]" startingAgent="ParsCat@302" deadline="180rounds">
+<resultsOfAgent agent="ParsCat@302" agentDesc="ANAC2016 ParsCat" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.anac.y2016.parscat.ParsCat" finalUtility="0.7850000000000001" discountedUtility="0.7850000000000001" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="SYAgent@303" agentDesc="ANAC2016 SYAgent" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.anac.y2016.syagent.SYAgent" finalUtility="0.8803024977828533" discountedUtility="0.8803024977828533" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Tue Oct 24 12:54:46 BST 2017" timeOfAgreement="0.5193370165745856" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Custom, Printed, Music: DJ, Cleanup: Water and Soap, ])" domain="etc/templates/partydomain/party_domain.xml" bids="186" runtime="0.061995726" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Custom, Printed, Music: DJ, Cleanup: Water and Soap, ]" startingAgent="SYAgent@304" deadline="180rounds">
+<resultsOfAgent agent="SYAgent@304" agentDesc="ANAC2016 SYAgent" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.anac.y2016.syagent.SYAgent" finalUtility="0.8483333333333334" discountedUtility="0.8483333333333334" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="SYAgent@305" agentDesc="ANAC2016 SYAgent" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.anac.y2016.syagent.SYAgent" finalUtility="0.8564909885811369" discountedUtility="0.8564909885811369" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Tue Oct 24 12:54:47 BST 2017" timeOfAgreement="0.5248618784530387" lastAction="(Accept  bid:Bid[Food: Finger-Food, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Custom, Printed, Music: DJ, Cleanup: Water and Soap, ])" domain="etc/templates/partydomain/party_domain.xml" bids="188" runtime="0.657997191" finalOutcome="Bid[Food: Finger-Food, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Custom, Printed, Music: DJ, Cleanup: Water and Soap, ]" startingAgent="ExampleAgent@306" deadline="180rounds">
+<resultsOfAgent agent="ExampleAgent@306" agentDesc="Example Agent" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="ExampleAgent" finalUtility="0.7850000000000001" discountedUtility="0.7850000000000001" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="SYAgent@307" agentDesc="ANAC2016 SYAgent" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.anac.y2016.syagent.SYAgent" finalUtility="0.8803024977828533" discountedUtility="0.8803024977828533" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Tue Oct 24 12:54:48 BST 2017" timeOfAgreement="0.5138121546961326" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Beer Only, Location: Party Tent, Invitations: Custom, Printed, Music: DJ, Cleanup: Special Equiment, ])" domain="etc/templates/partydomain/party_domain.xml" bids="185" runtime="0.750716725" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Beer Only, Location: Party Tent, Invitations: Custom, Printed, Music: DJ, Cleanup: Special Equiment, ]" startingAgent="ParsCat@308" deadline="180rounds">
+<resultsOfAgent agent="ParsCat@308" agentDesc="ANAC2016 ParsCat" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.anac.y2016.parscat.ParsCat" finalUtility="0.8133333333333334" discountedUtility="0.8133333333333334" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="ExampleAgent@309" agentDesc="Example Agent" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="ExampleAgent" finalUtility="0.3693170632159402" discountedUtility="0.3693170632159402" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Tue Oct 24 12:54:49 BST 2017" timeOfAgreement="0.5193370165745856" lastAction="(Accept  bid:Bid[Food: Handmade Food, Drinks: Beer Only, Location: Party Room, Invitations: Photo, Music: DJ, Cleanup: Water and Soap, ])" domain="etc/templates/partydomain/party_domain.xml" bids="187" runtime="0.642977435" finalOutcome="Bid[Food: Handmade Food, Drinks: Beer Only, Location: Party Room, Invitations: Photo, Music: DJ, Cleanup: Water and Soap, ]" startingAgent="SYAgent@310" deadline="180rounds">
+<resultsOfAgent agent="SYAgent@310" agentDesc="ANAC2016 SYAgent" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.anac.y2016.syagent.SYAgent" finalUtility="0.8908333333333334" discountedUtility="0.8908333333333334" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="ExampleAgent@311" agentDesc="Example Agent" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="ExampleAgent" finalUtility="0.5325864542294909" discountedUtility="0.5325864542294909" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Tue Oct 24 12:54:50 BST 2017" timeOfAgreement="0.5082872928176796" lastAction="(Accept  bid:Bid[Food: Handmade Food, Drinks: Catering, Location: Party Tent, Invitations: Photo, Music: DJ, Cleanup: Water and Soap, ])" domain="etc/templates/partydomain/party_domain.xml" bids="182" runtime="1.16678166" finalOutcome="Bid[Food: Handmade Food, Drinks: Catering, Location: Party Tent, Invitations: Photo, Music: DJ, Cleanup: Water and Soap, ]" startingAgent="ExampleAgent@312" deadline="180rounds">
+<resultsOfAgent agent="ExampleAgent@312" agentDesc="Example Agent" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="ExampleAgent" finalUtility="0.6091666666666666" discountedUtility="0.6091666666666666" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="ExampleAgent@313" agentDesc="Example Agent" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="ExampleAgent" finalUtility="0.4372456059633132" discountedUtility="0.4372456059633132" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Tue Oct 24 12:54:50 BST 2017" timeOfAgreement="0.5082872928176796" lastAction="(Accept  bid:Bid[Food: Handmade Food, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Custom, Printed, Music: DJ, Cleanup: Water and Soap, ])" domain="etc/templates/partydomain/party_domain.xml" bids="183" runtime="0.233044538" finalOutcome="Bid[Food: Handmade Food, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Custom, Printed, Music: DJ, Cleanup: Water and Soap, ]" startingAgent="ParsCat@314" deadline="180rounds">
+<resultsOfAgent agent="ParsCat@314" agentDesc="ANAC2016 ParsCat" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.anac.y2016.parscat.ParsCat" finalUtility="0.7850000000000001" discountedUtility="0.7850000000000001" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="ParsCat@315" agentDesc="ANAC2016 ParsCat" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.anac.y2016.parscat.ParsCat" finalUtility="0.9041140069845697" discountedUtility="0.9041140069845697" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Tue Oct 24 12:54:51 BST 2017" timeOfAgreement="0.5193370165745856" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Custom, Printed, Music: DJ, Cleanup: Water and Soap, ])" domain="etc/templates/partydomain/party_domain.xml" bids="187" runtime="0.134951432" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Custom, Printed, Music: DJ, Cleanup: Water and Soap, ]" startingAgent="SYAgent@316" deadline="180rounds">
+<resultsOfAgent agent="SYAgent@316" agentDesc="ANAC2016 SYAgent" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.anac.y2016.syagent.SYAgent" finalUtility="0.8483333333333334" discountedUtility="0.8483333333333334" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="ParsCat@317" agentDesc="ANAC2016 ParsCat" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.anac.y2016.parscat.ParsCat" finalUtility="0.8564909885811369" discountedUtility="0.8564909885811369" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Tue Oct 24 12:54:51 BST 2017" timeOfAgreement="0.5082872928176796" lastAction="(Accept  bid:Bid[Food: Finger-Food, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Custom, Printed, Music: MP3, Cleanup: Specialized Materials, ])" domain="etc/templates/partydomain/party_domain.xml" bids="182" runtime="0.668990483" finalOutcome="Bid[Food: Finger-Food, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Custom, Printed, Music: MP3, Cleanup: Specialized Materials, ]" startingAgent="ExampleAgent@318" deadline="180rounds">
+<resultsOfAgent agent="ExampleAgent@318" agentDesc="Example Agent" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="ExampleAgent" finalUtility="0.755" discountedUtility="0.755" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="ParsCat@319" agentDesc="ANAC2016 ParsCat" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.anac.y2016.parscat.ParsCat" finalUtility="0.7808163216837538" discountedUtility="0.7808163216837538" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Tue Oct 24 12:54:52 BST 2017" timeOfAgreement="0.5248618784530387" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Custom, Printed, Music: MP3, Cleanup: Water and Soap, ])" domain="etc/templates/partydomain/party_domain.xml" bids="189" runtime="0.124668349" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Custom, Printed, Music: MP3, Cleanup: Water and Soap, ]" startingAgent="ParsCat@320" deadline="180rounds">
+<resultsOfAgent agent="ParsCat@320" agentDesc="ANAC2016 ParsCat" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.anac.y2016.parscat.ParsCat" finalUtility="0.7849999999999999" discountedUtility="0.7849999999999999" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="SYAgent@321" agentDesc="ANAC2016 SYAgent" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.anac.y2016.syagent.SYAgent" finalUtility="0.9285654723948509" discountedUtility="0.9285654723948509" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Tue Oct 24 12:54:52 BST 2017" timeOfAgreement="0.5966850828729282" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Plain, Music: DJ, Cleanup: Water and Soap, ])" domain="etc/templates/partydomain/party_domain.xml" bids="214" runtime="0.070544884" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Handmade Cocktails, Location: Party Room, Invitations: Plain, Music: DJ, Cleanup: Water and Soap, ]" startingAgent="SYAgent@322" deadline="180rounds">
+<resultsOfAgent agent="SYAgent@322" agentDesc="ANAC2016 SYAgent" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.anac.y2016.syagent.SYAgent" finalUtility="0.8358333333333332" discountedUtility="0.8358333333333332" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="SYAgent@323" agentDesc="ANAC2016 SYAgent" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.anac.y2016.syagent.SYAgent" finalUtility="0.8400142500258816" discountedUtility="0.8400142500258816" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Tue Oct 24 12:54:53 BST 2017" timeOfAgreement="0.5082872928176796" lastAction="(Accept  bid:Bid[Food: Catering, Drinks: Handmade Cocktails, Location: Party Tent, Invitations: Custom, Printed, Music: DJ, Cleanup: Water and Soap, ])" domain="etc/templates/partydomain/party_domain.xml" bids="182" runtime="0.619466062" finalOutcome="Bid[Food: Catering, Drinks: Handmade Cocktails, Location: Party Tent, Invitations: Custom, Printed, Music: DJ, Cleanup: Water and Soap, ]" startingAgent="ExampleAgent@324" deadline="180rounds">
+<resultsOfAgent agent="ExampleAgent@324" agentDesc="Example Agent" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="ExampleAgent" finalUtility="0.6266666666666667" discountedUtility="0.6266666666666667" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="SYAgent@325" agentDesc="ANAC2016 SYAgent" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="agents.anac.y2016.syagent.SYAgent" finalUtility="0.8516130107848354" discountedUtility="0.8516130107848354" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Tue Oct 24 12:54:53 BST 2017" timeOfAgreement="0.5138121546961326" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Beer Only, Location: Party Room, Invitations: Custom, Printed, Music: Band, Cleanup: Hired Help, ])" domain="etc/templates/partydomain/party_domain.xml" bids="185" runtime="0.69839351" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Beer Only, Location: Party Room, Invitations: Custom, Printed, Music: Band, Cleanup: Hired Help, ]" startingAgent="ParsCat@326" deadline="180rounds">
+<resultsOfAgent agent="ParsCat@326" agentDesc="ANAC2016 ParsCat" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.anac.y2016.parscat.ParsCat" finalUtility="0.7816666666666667" discountedUtility="0.7816666666666667" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="ExampleAgent@327" agentDesc="Example Agent" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="ExampleAgent" finalUtility="0.5061754762260783" discountedUtility="0.5061754762260783" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Tue Oct 24 12:54:54 BST 2017" timeOfAgreement="0.5082872928176796" lastAction="(Accept  bid:Bid[Food: Chips and Nuts, Drinks: Beer Only, Location: Party Room, Invitations: Custom, Printed, Music: MP3, Cleanup: Water and Soap, ])" domain="etc/templates/partydomain/party_domain.xml" bids="183" runtime="0.637740633" finalOutcome="Bid[Food: Chips and Nuts, Drinks: Beer Only, Location: Party Room, Invitations: Custom, Printed, Music: MP3, Cleanup: Water and Soap, ]" startingAgent="SYAgent@328" deadline="180rounds">
+<resultsOfAgent agent="SYAgent@328" agentDesc="ANAC2016 SYAgent" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="agents.anac.y2016.syagent.SYAgent" finalUtility="0.8783333333333334" discountedUtility="0.8783333333333334" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="ExampleAgent@329" agentDesc="Example Agent" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="ExampleAgent" finalUtility="0.7382820437475793" discountedUtility="0.7382820437475793" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome>
+<NegotiationOutcome currentTime="Tue Oct 24 12:54:55 BST 2017" timeOfAgreement="0.5082872928176796" lastAction="(Accept  bid:Bid[Food: Catering, Drinks: Handmade Cocktails, Location: Ballroom, Invitations: Plain, Music: DJ, Cleanup: Specialized Materials, ])" domain="etc/templates/partydomain/party_domain.xml" bids="182" runtime="1.190725174" finalOutcome="Bid[Food: Catering, Drinks: Handmade Cocktails, Location: Ballroom, Invitations: Plain, Music: DJ, Cleanup: Specialized Materials, ]" startingAgent="ExampleAgent@330" deadline="180rounds">
+<resultsOfAgent agent="ExampleAgent@330" agentDesc="Example Agent" utilspace="etc/templates/partydomain/party1_utility.xml" agentClass="ExampleAgent" finalUtility="0.695" discountedUtility="0.695" discount="1.0">
+</resultsOfAgent>
+<resultsOfAgent agent="ExampleAgent@331" agentDesc="Example Agent" utilspace="etc/templates/partydomain/party2_utility.xml" agentClass="ExampleAgent" finalUtility="0.6417720393449236" discountedUtility="0.6417720393449236" discount="1.0">
+</resultsOfAgent>
+</NegotiationOutcome></Tournament>

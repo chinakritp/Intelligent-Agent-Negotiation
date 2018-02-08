@@ -1,0 +1,18 @@
+sep=;
+Run time (s);Round;Exception;deadline;Agreement;Discounted;#agreeing;min.util.;max.util.;Dist. to Pareto;Dist. to Nash;Social Welfare;Agent 1;Agent 2;Utility 1;Utility 2;Disc. Util. 1;Disc. Util. 2;Profile 1;Profile 2
+0.323;93;;180rounds;Yes;No;2;0.78500;0.88030;0.02381;0.04826;1.66530;ParsCat@246;ParsCat@247;0.7850000000000001;0.8803024977828533;0.7850000000000001;0.8803024977828533;party1_utility.xml;party2_utility.xml
+0.409;168;;180rounds;Yes;No;2;0.66621;0.94167;0.00000;0.30558;1.60787;YXAgent@248;ParsCat@249;0.9416666666666667;0.6662075599338653;0.9416666666666667;0.6662075599338653;party1_utility.xml;party2_utility.xml
+0.772;94;;180rounds;Yes;No;2;0.78591;0.81500;0.07806;0.14578;1.60091;ExampleAgent@250;ParsCat@251;0.815;0.785905062151012;0.815;0.785905062151012;party1_utility.xml;party2_utility.xml
+;;failure while running session:java.util.concurrent.ExecutionException: Execution failed of Atlas@252:java.lang.NullPointerException;;;;;;;;;;;;;;;;;
+0.207;101;;180rounds;Yes;No;2;0.78500;0.90411;0.00000;0.02445;1.68911;ParsCat@254;YXAgent@255;0.7850000000000001;0.9041140069845697;0.7850000000000001;0.9041140069845697;party1_utility.xml;party2_utility.xml
+0.264;181;;180rounds;No;No;1;0.00000;0.00000;1.03604;1.21592;0.00000;YXAgent@256;YXAgent@257;0.0;0.0;0.0;0.0;party1_utility.xml;party2_utility.xml
+0.777;94;;180rounds;Yes;No;2;0.70917;0.91145;0.06594;0.07774;1.62062;ExampleAgent@258;YXAgent@259;0.7091666666666667;0.9114487776310307;0.7091666666666667;0.9114487776310307;party1_utility.xml;party2_utility.xml
+;;failure while running session:java.util.concurrent.ExecutionException: Execution failed of Atlas@260:java.lang.NullPointerException;;;;;;;;;;;;;;;;;
+1.001;97;;180rounds;Yes;No;2;0.51706;0.78167;0.19463;0.41151;1.29873;ParsCat@262;ExampleAgent@263;0.7816666666666668;0.5170640962225398;0.7816666666666668;0.5170640962225398;party1_utility.xml;party2_utility.xml
+0.759;98;;180rounds;Yes;No;2;0.21529;0.94000;0.10132;0.72993;1.15529;YXAgent@264;ExampleAgent@265;0.9400000000000001;0.21528669753995108;0.9400000000000001;0.21528669753995108;party1_utility.xml;party2_utility.xml
+1.291;93;;180rounds;Yes;No;2;0.41609;0.78833;0.20252;0.51248;1.20442;ExampleAgent@266;ExampleAgent@267;0.7883333333333333;0.41609132499935997;0.7883333333333333;0.41609132499935997;party1_utility.xml;party2_utility.xml
+;;failure while running session:java.util.concurrent.ExecutionException: Execution failed of Atlas@268:java.lang.NullPointerException;;;;;;;;;;;;;;;;;
+0.002;2;;180rounds;Yes;No;2;0.29693;1.00000;0.00000;0.66723;1.29693;ParsCat@270;Atlas@271;1.0;0.2969260373579895;1.0;0.2969260373579895;party1_utility.xml;party2_utility.xml
+0.002;2;;180rounds;Yes;No;2;0.35677;0.81000;0.18272;0.57234;1.16677;YXAgent@272;Atlas@273;0.81;0.35677478846656285;0.81;0.35677478846656285;party1_utility.xml;party2_utility.xml
+0.011;2;;180rounds;Yes;No;2;0.29693;1.00000;0.00000;0.66723;1.29693;ExampleAgent@274;Atlas@275;1.0;0.2969260373579895;1.0;0.2969260373579895;party1_utility.xml;party2_utility.xml
+;;failure while running session:java.util.concurrent.ExecutionException: Execution failed of Atlas@276:java.lang.NullPointerException;;;;;;;;;;;;;;;;;
